@@ -1,7 +1,7 @@
 ## Hey✨
 
 🎓 Computer Science undergraduate with a Math minor at the **University of Alberta**  
-📊 Interested in **data pipelines, applied ML, and decision analytics**  
+📊 Interested in **data pipelines, applied ML, and decision analytics,** and a lot of math
 🌱 Passionate about using data for **real-world, community, and public-sector impact**
 
 ---
